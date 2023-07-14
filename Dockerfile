@@ -1,7 +1,7 @@
 # parameters
-ARG REPO_NAME="<test-program>"
-ARG DESCRIPTION="<testing>"
-ARG MAINTAINER="<Jacob Alderete> (<jalderet@caltech.edu>)"
+ARG REPO_NAME="test-program"
+ARG DESCRIPTION="testing"
+ARG MAINTAINER="Jacob Alderete (jalderet@caltech.edu)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
 
